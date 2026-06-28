@@ -1,4 +1,11 @@
-## Hi there 👋
+# Marcus Overgaard
+
+Junior Data Analyst
+
+I build end-to-end data projects using SQL, Python, Power BI, and Tableau to transform raw data into business insights.
+
+**Tools**
+SQL • PostgreSQL • Python • Pandas • Power BI • Tableau
 
 <!--
 **MarcusOvergaard/MarcusOvergaard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
